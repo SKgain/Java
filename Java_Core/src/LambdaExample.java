@@ -1,0 +1,3 @@
+interface LambdaExample {
+    void display();
+}
