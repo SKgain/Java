@@ -1,3 +1,5 @@
+// https://codeforces.com/contest/749/problem/A
+
 import java.util.*;
 import java.util.Vector;
 import java.util.Collections;
